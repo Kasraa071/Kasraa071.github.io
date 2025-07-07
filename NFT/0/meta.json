@@ -1,0 +1,19 @@
+{
+    "name": "Lovebird",
+    "image": "https://kasra071.com/NFT/0/logo.png",
+    "description": "A tokenized lovebird.",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "2"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Happy"
+        }
+    ]
+}
